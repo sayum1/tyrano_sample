@@ -1,10 +1,10 @@
 *tag_start
 
-[title name="dokawaki"]
+[title name="TO BE DJ?"]
 [hidemenubutton]
 [wait time=200]
 [freeimage layer="base"]
-「ドカ沸きさせられるか」[l][r]
+「自分のDJで客をドカ湧きさせたい…！」[l][r][r]
 
 昨今のDJ文化にあてられ、[l][r]
 
@@ -18,7 +18,7 @@ SNSで承認欲求を満たせると考え、[l][r]
 
 果たしてその行方やいかに…[l][r]
 
-まず、流す曲をゲットしないとな。[l][r]
+まず、流す曲をゲットしないとな。[l][r][r]
 
 [link target=*tag_jasrac] →YouTubeの音源を違法ダウンロードする [endlink][r]
 [link target=*tag_success1] →高いけどitunesやCDで音源をゲットする [endlink][r]
@@ -51,7 +51,7 @@ SNSで承認欲求を満たせると考え、[l][r]
 [bg storage=run.jpg time=500]
 
 [cm]
-曲を買ったはいいけど、あとは何が必要なんだろう？[l][r]
+曲を買ったはいいけど、あとは何が必要なんだろう？[l][r][r]
 
 [link target=*tag_headphone] →ヘッドホンを買う [endlink][r]
 [link target=*tag_pc] →PCを買う [endlink][r]
@@ -60,14 +60,14 @@ SNSで承認欲求を満たせると考え、[l][r]
 *tag_headphone
 [bg storage=run.jpg time=500]
 [cm]
-ほかにもまだ必要なものがありそうだ。[l][r]
+ほかにもまだ必要なものがありそうだ。[l][r][r]
 [link target=*tag_pc1] →PCを買う[endlink][r]
 [s]
 
 *tag_pc
 [bg storage=run.jpg time=500]
 [cm]
-ほかにもまだ必要なものがありそうだ。[l][r]
+ほかにもまだ必要なものがありそうだ。[l][r][r]
 [link target=*tag_pc1] →ヘッドホンを買う[endlink][r]
 [s]
 
@@ -76,7 +76,7 @@ SNSで承認欲求を満たせると考え、[l][r]
 [cm]
 とりあえず必要そうなPCとヘッドホンはゲットした。[l][r]
 でもただPCがあればいいというだけではなく、[l][r]
-DJ用楽曲管理ソフトが必要らしい。(無料)[l][r]
+DJ用楽曲管理ソフトが必要らしい。(無料)[l][r][r]
 
 [link target=*tag_install] →インストールする [endlink][r]
 [link target=*tag_iranai] →めんどくさいからいらない [endlink][r]
@@ -99,7 +99,7 @@ DJ用楽曲管理ソフトが必要らしい。(無料)[l][r]
 [cm]
 まあまあできるんじゃないか？(井の中の蛙)[l][r]
 
-そのうち人前でデビューしたいけど、どうすりゃいいんだろう？[l][r]
+そのうち人前でデビューしたいけど、どうすりゃいいんだろう？[l][r][r]
 [link target=*tag_goclub] →とりあえずイベントに行ってみる [endlink][r]
 [link target=*tag_twitter] →Twitterで同行の士を探してみる [endlink][r]
 [s]
@@ -109,7 +109,7 @@ DJ用楽曲管理ソフトが必要らしい。(無料)[l][r]
 [bg storage=run.jpg time=500]
 [cm]
 あなたは現状、DJをする手段がなくて困った。[l][r]
-例のソフトは必要だったようだね…(真理)[l][r]
+例のソフトは必要だったようだね…(真理)[l][r][r]
 [link target=*tag_install] →インストールする [endlink][r]
 [s]
 
@@ -121,7 +121,7 @@ DJ用楽曲管理ソフトが必要らしい。(無料)[l][r]
 
 そのうちの一人がイベントオーガナイザーだった。[l][r]
 
-「君ウチのイベント出てみる？」[l][r]
+「君ウチのイベント出てみる？」[l][r][r]
 
 [link target=*tag_senkyoku] →出演する [endlink][r]
 [link target=*tag_denai] →まだ未熟だから断る [endlink][r]
@@ -136,7 +136,7 @@ DJ用楽曲管理ソフトが必要らしい。(無料)[l][r]
 [cm]
 数週間後…[l][r]
 
-そろそろ自信が湧いてきたぞ。あの人に聞いてみるか…[l][r]
+そろそろ自信が湧いてきたぞ。あの人に聞いてみるか…[l][r][r]
 [link target=*tag_senkyoku] →「すいません！イベント出てみたいです！」[endlink][r]
 [s]
 
@@ -146,15 +146,16 @@ DJ用楽曲管理ソフトが必要らしい。(無料)[l][r]
 Twitterで同好の士が複数人できた。[l][r]
 
 その内輪で、自分たちでイベントをやってみることにした。[l][r]
-
+「キミも一緒にDJイベントやってみようよ！」[r]
 [jump target=*tag_senkyoku]
 
 *tag_senkyoku
 [bg storage=run.jpg time=500]
 [cm]
+「是非！出たいです！」[l][r]
 DJする機会をもらえたわけだが…[l][r]
 何よりも、ようやく人前でDJできるの楽しみすぎる！[l][r]
-さてどんな曲流そっかなー[l][r]
+さてどんな曲流そっかなー[l][r][r]
 
 [link target=*tag_yaruna] →イベントの雰囲気などに合う曲を流す　[endlink][r]
 [link target=*tag_onani] →フロアガン無視で自分が好きな曲のみを流す [endlink][r]
@@ -169,7 +170,7 @@ DJする機会をもらえたわけだが…[l][r]
 その場にいたオーガナイザーたちに次々声をかけられた。[l][r]
 それを繰り返し、あなたはDJとしてのキャリアを積んでいくのだった。[l][r]
 「自分も客をドカ湧きさせられるDJになったんだなあ(泣)(しみじみ)」[l][r]
-今後もDJ活動頑張るぞ！次は週末に控えたあのイベントの準備だ♪[r]
+「今後もDJ活動頑張るぞ！次は週末に控えたあのイベントの準備だ♪」[r]
 【 GOOD END 】[l][cm]
 [jump target=*tag_start]
 
