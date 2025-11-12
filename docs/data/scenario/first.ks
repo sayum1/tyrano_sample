@@ -43,7 +43,7 @@ SNSで承認欲求を満たせると考え、[l][r]
 
 【 BAD END 】[l][cm]
 
-[jump target=*start]
+[jump target=*tag_start]
 
 *tag_success1
 
@@ -91,7 +91,7 @@ DJ用楽曲管理ソフトが必要らしい。(無料)[l][r]
 [bg storage=run.jpg time=500]
 [cm]
 あなたは現状、DJ行為が箱でできなくて困った。[l][r]
-[jump target=*pc]
+[jump target=*tag_pc]
 
 *tag_goclub
 [bg storage=run.jpg time=500]
@@ -126,7 +126,7 @@ Twitterで同好の士が複数人できた。[l][r]
 
 その内輪で、自分たちでイベントをやってみることにした。[l][r]
 
-[jump target=*senkyoku]
+[jump target=*tag_senkyoku]
 
 *tag_senkyoku
 [bg storage=run.jpg time=500]
@@ -144,7 +144,7 @@ Twitterで同好の士が複数人できた。[l][r]
 [cm]
 イベントおよびあなたのDJは大成功をおさめ、DJとしてのキャリアを積んでいくのだった。
 【 GOOD END 】[l][cm]
-[jump target=*start]
+[jump target=*tag_start]
 
 *tag_onani
 [bg storage=run.jpg time=500]
@@ -153,4 +153,4 @@ Twitterで同好の士が複数人できた。[l][r]
 「まだ練習が足りないか…」[l][r]
 「いや、イベントにいろいろ行ってみるのも勉強だな。」[l][r]
 
-[jump target=*goclub]
+[jump target=*tag_goclub]
