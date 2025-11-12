@@ -4,7 +4,7 @@
 [hidemenubutton]
 [wait time=200]
 [freeimage layer="base"]
-
+[bg storage=djculture.jpg time=500]
 「ドカ沸きさせられるか」[l][r]
 
 昨今のDJ文化にあてられ、[l][r]
@@ -79,8 +79,8 @@ SNSで承認欲求を満たせると考え、[l][r]
 でもただPCがあればいいというだけではなく、[l][r]
 DJ用楽曲管理ソフトが必要らしい。(無料)[l][r]
 
-[link target=*tag_install] インストールする [endlink][r]
-[link target=*tag_iranai] めんどくさいからいらない [endlink][r]
+[link target=*tag_install] →インストールする [endlink][r]
+[link target=*tag_iranai] →めんどくさいからいらない [endlink][r]
 [s]
 
 *tag_install
@@ -165,10 +165,12 @@ DJする機会をもらえたわけだが…[l][r]
 [bg storage=run.jpg time=500]
 [cm]
 客も演者もあなたの選曲と巧みな技術でドカ湧きしていた。[l][r]
-DJ中にめちゃくちゃシャンパンとか入っててワイワイと出来た。[l][r]
+イベント中にめちゃくちゃシャンパンとか酒をもらってワイワイと出来た。[l][r]
 イベントおよびあなたのDJは大成功をおさめ、[l][r]
 その場にいたオーガナイザーたちに次々声をかけられた。[l][r]
 それを繰り返し、あなたはDJとしてのキャリアを積んでいくのだった。[l][r]
+「自分も客をドカ湧きさせられるDJになったんだなあ(泣)(しみじみ)」[l][r]
+今後もDJ活動頑張るぞ！次は週末に控えたあのイベントの準備だ♪[r]
 【 GOOD END 】[l][cm]
 [jump target=*tag_start]
 
@@ -179,5 +181,5 @@ DJ中にめちゃくちゃシャンパンとか入っててワイワイと出来
 イベント終了後ひとりで反省会をした。[l][r]
 「まだ練習が足りないか…」[l][r]
 「いや、イベントにいろいろ行ってみるのも勉強だな。」[l][r]
-
+「このイベントよさそうじゃん、行ってみよう！」[l][r]
 [jump target=*tag_goclub]
