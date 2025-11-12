@@ -1,4 +1,4 @@
-*start
+*tag_start
 
 [title name="dokawaki"]
 [hidemenubutton]
@@ -21,8 +21,8 @@ SNSで承認欲求を満たせると考え、[l][r]
 
 まず、流す曲をゲットしないとな。[l][r]
 
-[link target=*tag_jasrac] →YouTubeの音源を違法ダウンロードする [endlink][r]
-[link target=*tag_success1] →高いけどitunesやCDの音源を買う [endlink][r]
+[link target=*tag_jasrac] YouTubeの音源を違法ダウンロードする [endlink][r]
+[link target=*tag_success1] 高いけどitunesやCDの音源を買う [endlink][r]
 [s]
 
 *tag_jasrac
@@ -52,15 +52,15 @@ SNSで承認欲求を満たせると考え、[l][r]
 [cm]
 曲を買ったはいいけど、あとは何が必要なんだろう？[l][r]
 
-[link target=*tag_headphone] →ヘッドホンを買う [endlink][r]
-[link target=*tag_pc] →pcを買う [endlink][r]
+[link target=*tag_headphone] ヘッドホンを買う [endlink][r]
+[link target=*tag_pc] pcを買う [endlink][r]
 [s]
 
 *tag_headphone
 [bg storage=run.jpg time=500]
 [cm]
 ほかにもまだ必要なものがありそうだ。[l][r]
-[link target=*tag_pc]→PCを買う[endlink][r]
+[link target=*tag_pc]PCを買う[endlink][r]
 [s]
 
 *tag_pc
@@ -68,8 +68,8 @@ SNSで承認欲求を満たせると考え、[l][r]
 [cm]
 DJ用楽曲管理ソフトが必要らしい。(無料)[l][r]
 
-[link target=*tag_install] →インストールする [endlink][r]
-[link target=*tag_iranai] →めんどくさいからいらない [endlink][r]
+[link target=*tag_install] インストールする [endlink][r]
+[link target=*tag_iranai] めんどくさいからいらない [endlink][r]
 [s]
 
 *tag_install
@@ -82,8 +82,8 @@ DJ用楽曲管理ソフトが必要らしい。(無料)[l][r]
 まあまあできるんじゃないか？(井の中の蛙)[l][r]
 
 そのうち人前でデビューしたいけど、どうすりゃいいんだろう？[l][r]
-[link target=*tag_goclub] →実際にイベントに行ってみる [endlink][r]
-[link target=*tag_twitter] →Twitterで仲間を探してみる [endlink][r]
+[link target=*tag_goclub] 実際にイベントに行ってみる [endlink][r]
+[link target=*tag_twitter] Twitterで仲間を探してみる [endlink][r]
 [s]
 
 
@@ -102,8 +102,8 @@ DJ用楽曲管理ソフトが必要らしい。(無料)[l][r]
 
 「君ウチのイベント出てみる？」[l][r]
 
-[link target=*tag_senkyoku] →出演する [endlink][r]
-[link target=*tag_denai] →まだ未熟だから断る [endlink][r]
+[link target=*tag_senkyoku] 出演する [endlink][r]
+[link target=*tag_denai] まだ未熟だから断る [endlink][r]
 [s]
 
 *tag_denai
@@ -116,7 +116,7 @@ DJ用楽曲管理ソフトが必要らしい。(無料)[l][r]
 数週間後…[l][r]
 
 そろそろ自信が湧いてきたぞ。あの人に聞いてみるか…[l][r]
-[link target=*tag_senkyoku]→すいません！イベント出てみたいです！[endlink][r]
+[link target=*tag_senkyoku] すいません！イベント出てみたいです！[endlink][r]
 [s]
 
 *tag_twitter
@@ -135,8 +135,8 @@ Twitterで同好の士が複数人できた。[l][r]
 ようやく人前でできるの楽しみすぎる！[l][r]
 さて何ながそっかなー[l][r]
 
-[link target=*tag_yaruna] →イベントの雰囲気などに合う曲を流す　[endlink][r]
-[link target=*tag_onani] →フロアガン無視で自分が好きな曲のみを流す [endlink][r]
+[link target=*tag_yaruna] イベントの雰囲気などに合う曲を流す　[endlink][r]
+[link target=*tag_onani] フロアガン無視で自分が好きな曲のみを流す [endlink][r]
 [s]
 
 *tag_yaruna
