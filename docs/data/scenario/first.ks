@@ -4,7 +4,6 @@
 [hidemenubutton]
 [wait time=200]
 [freeimage layer="base"]
-[bg storage=djculture.jpg time=500]
 「ドカ沸きさせられるか」[l][r]
 
 昨今のDJ文化にあてられ、[l][r]
@@ -75,7 +74,7 @@ SNSで承認欲求を満たせると考え、[l][r]
 *tag_pc1
 [bg storage=run.jpg time=500]
 [cm]
-とりあえず必要そうなものはゲットした。[l][r]
+とりあえず必要そうなPCとヘッドホンはゲットした。[l][r]
 でもただPCがあればいいというだけではなく、[l][r]
 DJ用楽曲管理ソフトが必要らしい。(無料)[l][r]
 
@@ -86,7 +85,7 @@ DJ用楽曲管理ソフトが必要らしい。(無料)[l][r]
 *tag_install
 [bg storage=run.jpg time=500]
 [cm]
-ソフトのインストールに成功し、[l][r]
+ソフトもインストールし、[l][r]
 「あとは練習あるのみだ！」と意気込むあなた。[l][r]
 [cm]
 練習中…[l][r]
